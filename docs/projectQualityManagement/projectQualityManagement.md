@@ -1,6 +1,6 @@
 # Project Quality Management
 
-<p>The International Organization for Standardization (ISO) defines quality as “the totality of characteristics of an entity that bear on its ability to satisfy stated or implied needs” (ISO8042:1994) or “the degree to which a set of inherent characteristics fulfils requirements” (ISO9000:2000).</p>
+<p>The International Organization for Standardization (ISO) defines quality as “the totality of characteristics of an entity that bear on its ability to satisfy stated or implied needs” or “the degree to which a set of inherent characteristics fulfils requirements”.</p>
 
 <p>The purpose of project quality management is to ensure that the project will satisfy the needs for which it was undertaken. Recall that project management involves meeting or exceeding stakeholder needs and expectations. The project team must develop good relationships with key stakeholders, especially the main customer for the project, to understand what quality means to them. After all, the customer ultimately decides if quality is acceptable. Many technical projects fail because the project team focuses only on meeting the written requirements for the main products being created and ignores other stakeholder needs and expectations for the project.</p>
 
