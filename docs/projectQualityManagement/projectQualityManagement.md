@@ -99,6 +99,13 @@ following questions:</p>
 1.	Are there requirements addressing fault tolerances and graceful degradation?
 
 
+### References 
+1. INFORMATION TECHNOLOGY PROJECT MANAGEMENT  - Kathy Schwalbe 8th Edition Chapter 8
+
+1. Soon - will update the other resources 
+
+
+
 
 
 
