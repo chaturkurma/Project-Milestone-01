@@ -1,4 +1,4 @@
-# Stakeholder Register forthe Project 
+# Stakeholder Register for the Project 
 
 
 Prepared by: Chatur Veda Vyas Kurma      
