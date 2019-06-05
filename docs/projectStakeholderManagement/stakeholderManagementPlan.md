@@ -2,7 +2,7 @@
 ## Introduction
 ***Stakeholder management is critical to the success of every project in every organization I have ever worked with. By engaging the right people in the right way in your project, you can make a big difference to its success… and to your career. – Rachel Thompson, Mind Tools.***
 
-# Stakeholder Register for the Project 
+## Stakeholder Register for the Project 
 
 
 Prepared by: Chatur Veda Vyas Kurma      
@@ -68,7 +68,7 @@ Date: 05/17/2019
 
 
 
-# Stakeholder Analysis Table
+## Stakeholder Analysis Table
 
 
 
@@ -131,7 +131,7 @@ Date: 05/17/2019
   </tr>
 </table>
 
-# Issue Log Document
+## Issue Log Document
 
 <table class="tg">
   <tr>
