@@ -187,7 +187,7 @@
 ## Comments:
 
 
-# Stakeholder Register for Project Name
+# Stakeholder Register for the Project 
 
 
 Prepared by: Chatur Veda Vyas Kurma      
