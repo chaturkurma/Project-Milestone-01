@@ -10,6 +10,8 @@
 .tg .tg-akt8{font-weight:bold;color:#330001;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-ml2k{color:#000000;border-color:inherit;text-align:center;vertical-align:top}
 </style>
+<br>
+
 <table class="tg">
   <tr>
     <th class="tg-7btt">Stakeholder Names and Roles</th>
