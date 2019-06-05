@@ -1,21 +1,5 @@
 # Stakeholder Analysis Table
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-aktf{font-weight:bold;color:#333333;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-akt8{font-weight:bold;color:#330001;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-ml2k{color:#000000;border-color:inherit;text-align:center;vertical-align:top}
-</style>
-<br>
-<br>
-<br>
-<br>
-
-
 
 
 <table class="tg">
