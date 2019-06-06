@@ -3,6 +3,7 @@
 The aim of the project is to deliver a interactive web application based quiz that covers the PMBOK methodology and the required Project Management course objectives.
 ### 1.1.1 **Purpose,Scope and Objective**
 Developing a supplementary website to the course Project Management in Business and technology. All the students from Northwest Missouri state university can access this supplementary course content. They must be using university canvas login credentials to access the course content.  This supplementary website provides video lectures, quizzes, discussion forum, scoreboard, and student performance Criteria. 
+<br>
 This web application would help the students to learn and understand various concepts of Project Management. Students can access the quizzes with unlimited attempts. While reviewing the quiz answers every question will have detailed explanations to the answers which are self-explanatory. In addition to these students can write the five mock exams. 
 
 
