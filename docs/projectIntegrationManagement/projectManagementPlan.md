@@ -195,9 +195,8 @@ Project Closure milestone.
 
 
 # 2. **Project Charter**
-<h4>Project Title: A Guide to Project Management</h4>
-<h4> Project Start Date: 05/16/2019               </h4>
-  <h4>Projected Finish Date: 10/15/2019</h4>
+<h4>Project Title:</h4>  A Guide to Project Management
+<h4> Project Start Date:</h4> <p>  05/16/2019   </p>           <h4>Projected Finish Date:</h4> <p> 10/15/2019</p>
 <h4> Budget Information: Self Funded</h4>
 <h4> Project Manager: </h4> <br>
 <p>                 Name:VenkataSandeep Katrevula  <br>
