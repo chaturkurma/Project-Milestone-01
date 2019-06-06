@@ -56,7 +56,7 @@
     <td class="tg-c3ow">Medium</td>
     <td class="tg-c3ow">High</td>
     <td class="tg-c3ow">Use the product and provide feedback</td>
-    <td class="tg-c3ow">By giving negetive feedback when User testing</td>
+    <td class="tg-c3ow">By giving negative feedback when User testing</td>
     <td class="tg-c3ow"></td>
   </tr>
 </table>
