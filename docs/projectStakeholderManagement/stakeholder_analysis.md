@@ -55,7 +55,7 @@
     <td class="tg-7btt">Northwest Graduate Student</td>
     <td class="tg-c3ow">Medium</td>
     <td class="tg-c3ow">High</td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">Use the product and provide feedback</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
   </tr>
