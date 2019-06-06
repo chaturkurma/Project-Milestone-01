@@ -1824,42 +1824,42 @@ The project commences from July 6th, 2019 expected to be finished by August 9th,
     <th class="tg-s6z2"><br>&nbsp;&nbsp;Due date<br>&nbsp;&nbsp;</th>
   </tr>
   <tr>
-    <td class="tg-baqh"><br>&nbsp;&nbsp;Project charter<br>&nbsp;&nbsp;</td>
+    <td class="tg-baqh"><br>Project charter<br>&nbsp;&nbsp;</td>
     <td class="tg-0lax"><br>  It will be having information about key schedule milestones, budget information project manager, project objectives, success criteria, approach, roles and responsibilities of stakeholders<br>  </td>
     <td class="tg-baqh"><br>&nbsp;&nbsp;7/9/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-s6z2"><br>&nbsp;&nbsp;Scope statement<br>&nbsp;&nbsp;</td>
+    <td class="tg-s6z2"><br>Scope statement<br>&nbsp;&nbsp;</td>
     <td class="tg-s268"><br>  It has project justification, project characteristics and requirements product-related deliverables, Project management-related deliverables,<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;7/15/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-s6z2"><br>&nbsp;&nbsp;Time management plan<br>&nbsp;&nbsp;</td>
+    <td class="tg-s6z2"><br>Time management plan<br>&nbsp;&nbsp;</td>
     <td class="tg-s268"><br>  It has details how detailed project scope statement is prepared, how to maintain and approve the WBS, Work Breakdown Structure obtaining procedure, how to control requests for changes to the project scope, how to get formal acceptance regarding completed project deliverables<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;7/21/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-s6z2"><br>&nbsp;&nbsp;Schedule management plan<br>&nbsp;&nbsp;</td>
+    <td class="tg-s6z2"><br>Schedule management plan<br>&nbsp;&nbsp;</td>
     <td class="tg-s6z2"><br>  It has details regarding Project schedule model development, complete scheduling methodology, Level of accuracy and units of measure, Process descriptions, Control thresholds, Rules of performance measurement, Reporting formats<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;7/26/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-s6z2"><br>&nbsp;&nbsp;Cost Management Plan<br>&nbsp;&nbsp;</td>
+    <td class="tg-s6z2"><br>Cost Management Plan<br>&nbsp;&nbsp;</td>
     <td class="tg-s6z2"><br>  It has the cost estimates for the project, cost estimation, budget.<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;7/29/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-s6z2"><br>&nbsp;&nbsp;Stakeholder register<br>&nbsp;&nbsp;</td>
+    <td class="tg-s6z2"><br>Stakeholder register<br>&nbsp;&nbsp;</td>
     <td class="tg-s6z2"><br>  It contains names, position, project role, and contact information of the employee<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;8/2/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-s6z2"><br>&nbsp;&nbsp;Final upgradation<br>&nbsp;&nbsp;</td>
+    <td class="tg-s6z2"><br>Final upgradation<br>&nbsp;&nbsp;</td>
     <td class="tg-s6z2"><br>  This is the final deliverable of the project<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;08/5/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-baqh"><br>&nbsp;&nbsp;Final documentation<br>&nbsp;&nbsp;</td>
+    <td class="tg-baqh"><br>Final documentation<br>&nbsp;&nbsp;</td>
     <td class="tg-baqh"><br>  This is the final document which is prepared once the project has been completed<br>  </td>
     <td class="tg-baqh"><br>&nbsp;&nbsp;08/9/2019<br>&nbsp;&nbsp;</td>
   </tr>
