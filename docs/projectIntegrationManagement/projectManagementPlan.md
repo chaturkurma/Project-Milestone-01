@@ -20,7 +20,7 @@ Students who all are new to the project management can learn and understand by w
 1.	Architecture design specification
 1.	Source Code
 1.	Test Plan
-1.	Final Product w/ Demo
+1.	Final Product with demo
 
 
 ### 1.1.4 **Evaluation of this Document**
