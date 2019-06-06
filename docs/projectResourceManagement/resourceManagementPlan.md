@@ -84,181 +84,184 @@ The human resources management plan includes:
 
 <table class="tg">
   <tr>
-    <th class="tg-bxch">Resource</th>
-    <th class="tg-bxch">Skill Level Required</th>
-    <th class="tg-9p4m">Associated Tasks</th>
-    <th class="tg-9p4m">Duration Required</th>
-    <th class="tg-9p4m">Available Time Period</th>
-    <th class="tg-9p4m">Cost</th>
-    <th class="tg-9p4m">Unit of Cost( Hr, day,month,week fixed)</th>
-    <th class="tg-9p4m">Level of Risk(High, medium, low)</th>
+    <th class="tg-5ua9"><br>&nbsp;&nbsp;Resource<br>&nbsp;&nbsp;</th>
+    <th class="tg-5ua9"><br>&nbsp;&nbsp;Skill<br>&nbsp;&nbsp;Level Required<br>&nbsp;&nbsp;</th>
+    <th class="tg-5ua9"><br>&nbsp;&nbsp;Associated<br>&nbsp;&nbsp;Tasks<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;</th>
+    <th class="tg-5ua9"><br>&nbsp;&nbsp;Duration<br>&nbsp;&nbsp;Required<br>&nbsp;&nbsp;</th>
+    <th class="tg-5ua9"><br>&nbsp;&nbsp;Available<br>&nbsp;&nbsp;Time Period<br>&nbsp;&nbsp;</th>
+    <th class="tg-5ua9"><br>&nbsp;&nbsp;Cost<br>&nbsp;&nbsp;</th>
+    <th class="tg-1wig"><br>&nbsp;&nbsp;Unit<br>&nbsp;&nbsp;of Cost( Hr, day,month,week fixed)<br>&nbsp;&nbsp;</th>
+    <th class="tg-1wig"><br>&nbsp;&nbsp;Level<br>&nbsp;&nbsp;of Risk(High, medium, low)<br>&nbsp;&nbsp;</th>
   </tr>
   <tr>
-    <td class="tg-xqhu">PROJECT TEAM</td>
-    <td class="tg-xqhu">Programming skills and Communication skills</td>
-    <td class="tg-vphl">Writing code and development of content</td>
-    <td class="tg-vphl">3 months</td>
-    <td class="tg-vphl">3 months</td>
-    <td class="tg-vphl">600</td>
-    <td class="tg-vphl">Hr</td>
-    <td class="tg-vphl">High</td>
+    <td class="tg-5ua9"><br>&nbsp;&nbsp;PROJECT<br>&nbsp;&nbsp;TEAM<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Programming skills and Communication<br>&nbsp;&nbsp;skills<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Writing code and development of<br>&nbsp;&nbsp;content<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;3 months<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;3 months<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;600<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Hr<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;High<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-xqhu">Project Manager</td>
-    <td class="tg-xqhu">Business Skills, Technical Skills, Communication Skills</td>
-    <td class="tg-vphl">Managing teams, ensuring stakeholders requirements are met, project scheduling</td>
-    <td class="tg-vphl">4 months</td>
-    <td class="tg-vphl">4 months</td>
-    <td class="tg-vphl">500</td>
-    <td class="tg-vphl">Hr</td>
-    <td class="tg-vphl">High</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Project Manager<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Business Skills, Technical Skills,<br>&nbsp;&nbsp;Communication Skills<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Managing teams, ensuring stakeholders<br>&nbsp;&nbsp;requirements are met, project scheduling<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;4 months<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;4 months<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;500<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Hr<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;High<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-xqhu">Team Lead</td>
-    <td class="tg-xqhu">Managerial Skills, Programming Skills</td>
-    <td class="tg-vphl">Writing code, coordinating with manager and team</td>
-    <td class="tg-vphl">3.5 months</td>
-    <td class="tg-vphl">3.5 months</td>
-    <td class="tg-vphl">250</td>
-    <td class="tg-vphl">Hr</td>
-    <td class="tg-vphl">Medium</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Team Lead<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Managerial Skills, Programming Skills<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Writing code, coordinating with<br>&nbsp;&nbsp;manager and team<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;3.5 months<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;3.5 months<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;250<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Hr<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Medium<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-xqhu">Web Developer</td>
-    <td class="tg-xqhu">Website development skills</td>
-    <td class="tg-vphl">Creating interactive and beautiful websites</td>
-    <td class="tg-vphl">1.5 month</td>
-    <td class="tg-vphl">1.5 month</td>
-    <td class="tg-vphl">200</td>
-    <td class="tg-vphl">Hr</td>
-    <td class="tg-vphl">Medium</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Web Developer<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Website development skills<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Creating interactive and beautiful<br>&nbsp;&nbsp;websites<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;1.5 month<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;1.5 month<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;200<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Hr<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Medium<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-xqhu">Content Developer</td>
-    <td class="tg-xqhu">Content gathering skills</td>
-    <td class="tg-vphl">Gather content</td>
-    <td class="tg-vphl">1 month</td>
-    <td class="tg-vphl">1 month</td>
-    <td class="tg-vphl">150</td>
-    <td class="tg-vphl">Hr</td>
-    <td class="tg-vphl">Low</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Content Developer<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Content gathering skills<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Gather content<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;1 month<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;1 month<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;150<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Hr<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Low<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-bxch">EQUIPMENT</td>
-    <td class="tg-xqhu"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-vphl">Database servers &amp; Web servers</td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl">To store and retrieve data</td>
-    <td class="tg-vphl">1 month</td>
-    <td class="tg-vphl">1 month</td>
-    <td class="tg-vphl">$1000</td>
-    <td class="tg-vphl">per month</td>
-    <td class="tg-vphl">High</td>
+    <td class="tg-5ua9"><br>&nbsp;&nbsp;EQUIPMENT<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-vphl">Computers</td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl">To develop code</td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl">High</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Database servers &amp; Web servers<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;To store and retrieve data<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;1 month<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;1 month<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;1000<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;month<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;High<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-7jqc"><br>  SOFTWARE TOOLS<br>  </td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;Computers<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;To develop code<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;3 months<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;3 months<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>&nbsp;&nbsp;0<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;month<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;High<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-vphl">JIRA</td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl">For Sprints</td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl">Medium</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-vphl">Software Licensed Version</td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl">Software</td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl">High</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-vphl">OTHERS</td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-  </tr>
-</table>
-
-<h2> Resources Net Change:</h2>
-
-<table class="tg">
-  <tr>
-    <th class="tg-bxch">Resources</th>
-    <th class="tg-bxch">Resources Allocated</th>
-    <th class="tg-bxch">Resources Required</th>
-    <th class="tg-bxch">Net Change</th>
-    <th class="tg-bxch">Explanation</th>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;SOFTWARE<br>&nbsp;&nbsp;TOOLS<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-xqhu">Project Team</td>
-    <td class="tg-xqhu">4 units</td>
-    <td class="tg-xqhu">4 units</td>
-    <td class="tg-xqhu">0</td>
-    <td class="tg-xqhu"></td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;JIRA<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;For Sprints<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;0<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;month<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Medium<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-xqhu">Facilities</td>
-    <td class="tg-xqhu">3 units</td>
-    <td class="tg-xqhu">3 units</td>
-    <td class="tg-xqhu">0</td>
-    <td class="tg-xqhu"></td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Software Licensed Version<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;Software<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;0<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;month<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;High<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-xqhu">Equipment</td>
-    <td class="tg-xqhu">6 units</td>
-    <td class="tg-xqhu">6 units</td>
-    <td class="tg-xqhu">0</td>
-    <td class="tg-xqhu"></td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-xqhu">Software Tools</td>
-    <td class="tg-xqhu">5</td>
-    <td class="tg-xqhu">5</td>
-    <td class="tg-xqhu">0</td>
-    <td class="tg-xqhu"></td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-xqhu">Others</td>
-    <td class="tg-xqhu"></td>
-    <td class="tg-xqhu"></td>
-    <td class="tg-xqhu"></td>
-    <td class="tg-xqhu"></td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp;OTHERS<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"> -</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>&nbsp;&nbsp; <br>&nbsp;&nbsp;</td>
   </tr>
 </table>
 
