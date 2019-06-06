@@ -200,7 +200,7 @@ Developing a supplementary website to the course Project Management in Business 
 This web application would help the students to learn and understand various concepts of Project Management. Students can access the quizzes with unlimited attempts. While reviewing the quiz answers every question will have detailed explanations to the answers which are self-explanatory. In addition to these students can write the five mock exams. 
 
 
-### 3.2 **Assumptions, Constraints and Risks**
+### 3.2 **Assumptions and Constraints**
 Students who all are new to the project management can learn and understand by watching video lectures. Prior to use this application, users need not know to have good knowledge about the PMBOK methodology. Questions are designed based on the difficulty level. Students can choose their level of expertise from Beginner, Professional, and Expert. 
 
 - The project must be completed by fall 2019
@@ -215,9 +215,7 @@ Students who all are new to the project management can learn and understand by w
 1.	Test Plan
 1.	Final Product with demo
 
-### 3.3 **Project Requirements Document**
-
-
+### 3.4 **Product Requirement Sepcification**
 
 <table class="tg">
   <tr>
@@ -234,77 +232,72 @@ Students who all are new to the project management can learn and understand by w
   </tr>
   <tr>
     <td class="tg-0lax">2.</td>
-    <td class="tg-0lax">Student user should be able to <br>create the personal account</td>
+    <td class="tg-0lax">Student user should be able to <br> access through Northwest Credentials</td>
     <td class="tg-0lax">High</td>
     <td class="tg-0lax">Functional</td>
   </tr>
   <tr>
     <td class="tg-0lax">3.</td>
-    <td class="tg-0lax">Students should be able to view<br>the videos uploaded in the database.</td>
+    <td class="tg-0lax">Students should be able to watch<br>the videos uploaded in the database.</td>
     <td class="tg-0lax">High</td>
     <td class="tg-0lax">Functional</td>
   </tr>
+
+
   <tr>
     <td class="tg-0lax">4.</td>
-    <td class="tg-0lax">The credentials should be unique<br>for the admin, student user</td>
-    <td class="tg-0lax">High</td>
-    <td class="tg-0lax">Functional</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">5.</td>
-    <td class="tg-0lax">Should be able to write</td>
-    <td class="tg-0lax">High</td>
-    <td class="tg-0lax">Functional</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">6.</td>
     <td class="tg-0lax">The website should be able to ask for feedbacks<br>and comments</td>
     <td class="tg-0lax">High</td>
     <td class="tg-0lax">Functional</td>
   </tr>
   <tr>
-    <td class="tg-0lax">7.</td>
+    <td class="tg-0lax">5.</td>
     <td class="tg-0lax">It should allow maintaining the profile<br>for the user</td>
     <td class="tg-0lax">Medium</td>
     <td class="tg-0lax">Functional</td>
   </tr>
   <tr>
-    <td class="tg-0lax">8.</td>
+    <td class="tg-0lax">6.</td>
     <td class="tg-0lax">Response time should be less than 60 seconds</td>
     <td class="tg-0lax">High</td>
     <td class="tg-0lax">Functional</td>
   </tr>
   <tr>
+    <td class="tg-0lax">7.</td>
+    <td class="tg-0lax">Student Performance Analysis</td>
+    <td class="tg-0lax">Medium</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8.</td>
+    <td class="tg-0lax">Progress of the video lectures and Quizzes</td>
+    <td class="tg-0lax">High</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">9.</td>
-    <td class="tg-0lax">Performance Analysis</td>
+    <td class="tg-0lax">Score board</td>
     <td class="tg-0lax">Medium</td>
     <td class="tg-0lax">Functional</td>
   </tr>
   <tr>
     <td class="tg-0lax">10.</td>
-    <td class="tg-0lax">Progress of the video lectures and Quizzes<br>should be regularly updated</td>
+    <td class="tg-0lax">Discussion forum</td>
     <td class="tg-0lax">High</td>
     <td class="tg-0lax">Functional</td>
   </tr>
   <tr>
     <td class="tg-0lax">11.</td>
-    <td class="tg-0lax">Score board should be visible</td>
-    <td class="tg-0lax">Medium</td>
-    <td class="tg-0lax">Functional</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">12.</td>
-    <td class="tg-0lax">Discussion form should be always be updated and <br>send Email updates to the respective user who all <br>are the part of the Discussion</td>
-    <td class="tg-0lax">High</td>
-    <td class="tg-0lax">Functional</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">13.</td>
-    <td class="tg-0lax">Database to store student credentials, video<br>lectures</td>
+    <td class="tg-0lax">Database to store video lectures and Quiz content</td>
     <td class="tg-0lax">High</td>
     <td class="tg-0lax">Functional</td>
   </tr>
 </table>
+
+
+
+
+
 
 <br>
 
