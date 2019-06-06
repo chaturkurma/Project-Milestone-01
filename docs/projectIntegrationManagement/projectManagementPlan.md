@@ -137,8 +137,6 @@ Project Closure milestone.
      E-mail:S534965@nwmissouri.edu  </p>
 
 
-
-
 <h4> Project Success Criteria: </h4>
 The product should be delivered to client within the specified time. It must meet all the functionalities and user-friendly.
 
