@@ -2,9 +2,11 @@
 ## 1.1 **Project Overview**
 The aim of the project is to deliver a interactive web application based quiz that covers the PMBOK methodology and the required Project Management course objectives.
 ### 1.1.1 **Purpose,Scope and Objective**
-The quiz web application would help the students to learn and understand various concepts of Project Management.Users/Students will be given unlimited attempts to the quiz so that users/students can come accross  all questions from the database which contains questions from each and every chapter of the book "A Guide to PMBOK" and practice them whenever they want. 
+The quiz web application would help the students to learn and understand various concepts of Project Management. Users/Students will be given unlimited attempts to the quiz so that users/students can come across all questions from the database which contains questions from each chapter of the book "A Guide to PMBOK" and practice them whenever they want.
 
-- To deliver a web application which interacts with the database to display quiz questions to which users/students answer.The answers submitted by the users/students are then compared with the answers in database and the quiz is graded.
+- To deliver a web application which interacts with the database to display quiz questions to which users/students answer. The answers submitted by the users/students are then compared with the answers in database and the quiz is graded.
+
+
 ### 1.1.2 **Assumptions, Constraints and Risks**
 Prior to usage of the application, users need not know PMBOK methodology in depth.Questions are designed as such would help users to learn topics and understand.
 - Project needs to be completed by fall 2019.
