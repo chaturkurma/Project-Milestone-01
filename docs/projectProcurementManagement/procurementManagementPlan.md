@@ -1,6 +1,6 @@
 # Project Procurement Management	
 ##	Procurement Management Plan
-     This document was made after the successful planning of the procurement by considering the major inputs like scope baseline, documentation of requirements, team agreement, risk register, activity resource requirement, the project schedule, cost estimates, cost performance baselines, and organizational process assets
+This document was made after the successful planning of the procurement by considering the major inputs like scope baseline, documentation of requirements, team agreement, risk register, activity resource requirement, the project schedule, cost estimates, cost performance baselines, and organizational process assets
 ## i. Statement of Work 
 ### I.	Scope of Work:
 To upgrade the platform for transportation systems, with the increase in demand for mobile applications the organization has decided to start applications on both Android and iOS for their systems. We need to upgrade their equipment (software/hardware) to start mobile development. 
@@ -94,9 +94,11 @@ Every deliverable must pass the quality standards and meet the requirements. The
 
 ## ii.	Request for Proposal
 
-### i.	Purpose of RFP: The purpose is to upgrade the web application platform for transportation systems of ABC organization as there is a demand for mobile applications on both android and iOS systems.
+### i.	Purpose of RFP:
+The purpose is to upgrade the web application platform for transportation systems of ABC organization as there is a demand for mobile applications on both android and iOS systems.
 
-### ii.	Organization’s Background: ABC is software development company whose main business focus is to develop web applications for transportation systems.
+### ii.	Organization’s Background:
+ABC is software development company whose main business focus is to develop web applications for transportation systems.
 
 ### iii.	Basic Requirements: 
 a.	Convert a web application to mobile application platform. <br>
