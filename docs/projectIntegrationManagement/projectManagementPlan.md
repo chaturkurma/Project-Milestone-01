@@ -140,8 +140,6 @@ Project Closure milestone.
 <h4> Project Success Criteria: </h4>
 The product should be delivered to client within the specified time. It must meet all the functionalities and user-friendly.
 
-
->>>>>>> 813be9171634aac2188d353cafca29364b130ea8
 <h4> Roles and Responsibilities</h4>
  <table class="table table-dark">
                          
