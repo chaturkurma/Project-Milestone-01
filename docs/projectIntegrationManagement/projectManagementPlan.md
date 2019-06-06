@@ -2,7 +2,7 @@
 ## 1.1 **Project Overview**
 The aim of the project is to deliver a interactive web application based quiz that covers the PMBOK methodology and the required Project Management course objectives.
 ### 1.1.1 **Purpose,Scope and Objective**
-Developing a supplementary website to the course Project Management in Business and technology. All the students from Northwest Missouri state university can access this supplementary course content. They must be using university canvas login credentials to access the course content.  This supplementary website provides video lectures, quizzes, discussion forum, scoreboard, and student performance Criteria. 
+Developing a supplementary website to the course Project Management in Business and technology. All the students from Northwest Missouri state university can access this supplementary course content. They must be using university canvas login credentials to access the course content.  This supplementary website provides video lectures, quizzes, discussion forum, scoreboard, and student performance Analysis. 
 <br>
 This web application would help the students to learn and understand various concepts of Project Management. Students can access the quizzes with unlimited attempts. While reviewing the quiz answers every question will have detailed explanations to the answers which are self-explanatory. In addition to these students can write the five mock exams. 
 
@@ -42,68 +42,91 @@ Students who all are new to the project management can learn and understand by w
 1.  Smartdraw webtool is used to create the Work Break Down Structre https://www.smartdraw.com/
 
 
-
 ### 1.1.6 **Schedule and Budget Summary**
 - All the tasks are to be completed by September 15, 2019.
-- Budget to complete the project is $6,94,000.
+- Budget to complete the project is $30,000.
+
+### 1.1.7 **Product Requirement Sepcification**
+
+<table class="tg">
+  <tr>
+    <th class="tg-uys7"><span style="font-weight:bold">ID</span><br></th>
+    <th class="tg-88nc">Requirement<br></th>
+    <th class="tg-88nc">Priority<br></th>
+    <th class="tg-fymr">Type</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.</td>
+    <td class="tg-0lax">The website should be user friendly <br>for all the students</td>
+    <td class="tg-0lax">High</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.</td>
+    <td class="tg-0lax">Student user should be able to <br> access through Northwest Credentials</td>
+    <td class="tg-0lax">High</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.</td>
+    <td class="tg-0lax">Students should be able to watch<br>the videos uploaded in the database.</td>
+    <td class="tg-0lax">High</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
 
 
-### 1.1.7 **Boundaries and interfaces**
+  <tr>
+    <td class="tg-0lax">4.</td>
+    <td class="tg-0lax">The website should be able to ask for feedbacks<br>and comments</td>
+    <td class="tg-0lax">High</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.</td>
+    <td class="tg-0lax">It should allow maintaining the profile<br>for the user</td>
+    <td class="tg-0lax">Medium</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6.</td>
+    <td class="tg-0lax">Response time should be less than 60 seconds</td>
+    <td class="tg-0lax">High</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7.</td>
+    <td class="tg-0lax">Student Performance Analysis</td>
+    <td class="tg-0lax">Medium</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8.</td>
+    <td class="tg-0lax">Progress of the video lectures and Quizzes</td>
+    <td class="tg-0lax">High</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9.</td>
+    <td class="tg-0lax">Score board</td>
+    <td class="tg-0lax">Medium</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10.</td>
+    <td class="tg-0lax">Discussion forum</td>
+    <td class="tg-0lax">High</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11.</td>
+    <td class="tg-0lax">Database to store video lectures and Quiz content</td>
+    <td class="tg-0lax">High</td>
+    <td class="tg-0lax">Functional</td>
+  </tr>
+</table>
 
 
-<P>Project Manager and team lead through out each development of the phases will be responsible for coordinating team meetings, updates, communications, and team deliverables</p>
 
-### 1.1.8 **Project responsibilities:**
-
-<P>Ultimately the whole complete development of project team is responsible for the successful delivery of the product.</P>
- <table class="table table-dark">
-                         
-<tr> 
-<th>1</th>
-<th>Preliminary Project Plan</th> 
-
-<th>Venkatasandeep Katrevula</th>
-</tr>
-<tr> 
-<th>2</th>
-<th>	Requirements Specification    </th>
-<th>Venkatasandeep Katrevula</th>
-</tr>
-<tr> 
-<th>3</th>
-<th>Content Development and Statistical Analysis</th>
-<th>Venkatasandeep Katrevula</th>
-</tr>
-<tr> 
-<th>4</th>
-<th>Analysis [Object model, Dynamic model, and User interface </th>
-<th>Whole Team</th>
-</tr>
-<tr> 
-<th>5</th>
-<th>Architecture Specification </th>
-<th>Whole Team</th>
-</tr>
-<tr> 
-<th>6</th>
-<th>	Component/Object Specification   </th>
-<th>Whole Team</th>
-</tr>
-<tr> 
-<th>7</th>
-<th>	Component/Object Specification    </th>
-<th>Whole Team</th>
-</tr>
-<tr> 
-<th>8</th>
-<th>	Test Plan </th>
-<th>Venkatasandeep Katrevula</th>
-</tr>
-<tr> 
-<th>9</th>
-<th>	Final Product w/ Demo  </th>
-<th>Whole Team</th>
-</tr>
 
 
 ## 1.2 **Project Organisation**
