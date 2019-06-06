@@ -6,19 +6,19 @@ Developing a supplementary website to the course Project Management in Business 
 
 
 ### 1.1.2 **Assumptions, Constraints and Risks**
-Prior to usage of the application, users need not know PMBOK methodology in depth. Questions are designed as such would help users to learn topics and understand.
-- Project has to be completed by fall 2019
--  Necessary training shold be provided to team members
+Students who all are new to the project management can learn and understand by watching video lectures. Prior to use this application, users need not know have a good knowledge about the PMBOK methodology. Questions are designed based on difficulty level. Students can choose there level of expertise from Beginner, Professional and Expert. 
+- Project must be completed by fall 2019
+- Necessary training should be provided to team members
 
 ### 1.1.3 **Project Deliverables**
-1.	Preliminary Project Plan	
-1.	Requirements Specification
+1.	Project Management Plan
+1.	Requirements Specification document
 1.	Analysis [Object model, Dynamic model, and User interface]
-1.	Architecture Specification
-1.	Component/Object Specification
+1.	Architecture design specification
 1.	Source Code
 1.	Test Plan
-1.  Final Product w/ Demo
+1.	Final Product w/ Demo
+
 
 ### 1.1.4 **Evaluation of this Document**
 
