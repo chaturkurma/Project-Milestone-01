@@ -1,4 +1,4 @@
-## ii.	Request for Proposal
+## 	Request for Proposal
 
 ### i.	Purpose of RFP:
 The purpose is to upgrade the web application platform for transportation systems of ABC organization as there is a demand for mobile applications on both android and iOS systems.
