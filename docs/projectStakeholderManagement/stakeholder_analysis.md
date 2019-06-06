@@ -33,7 +33,7 @@
     <td class="tg-c3ow">High</td>
     <td class="tg-c3ow">Actively work in the project</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">Try to motivate</td>
   </tr>
   <tr>
     <td class="tg-7btt">Chatur Veda Vyas Kurma</td>
@@ -41,7 +41,7 @@
     <td class="tg-c3ow">High</td>
     <td class="tg-c3ow">Actively work in the project</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">Try to motivate</td>
   </tr>
   <tr>
     <td class="tg-7btt">Harsha Vardhan Reddy Nallavolu</td>
@@ -49,7 +49,7 @@
     <td class="tg-c3ow">High</td>
     <td class="tg-c3ow">Actively work in the project</td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">Try to motivate</td>
   </tr>
   <tr>
     <td class="tg-7btt">Northwest Graduate Student</td>
