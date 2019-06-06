@@ -136,8 +136,7 @@ Project Closure milestone.
      Phone: +1-6605280106 <br>
      E-mail:S534965@nwmissouri.edu  </p>
 
-<<<<<<< HEAD
-=======
+
 
 
 <h4> Project Success Criteria: </h4>
