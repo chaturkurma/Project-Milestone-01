@@ -7,93 +7,636 @@ Main Focus Area is Executing
 ### **Product:**
 Quiz Application
 ### **Prepared By:** 
-Chatur Veda Vyas Kurma
+VenkataSandeep Katrevula
  
 ## Work Breakdown Structure :
 
-
-
-| Level | WBS Code | Task Name | Resources | Time | Assigned to|
-|-------|----------|-----------|-----------|------|------------|
-|       |          |Initiation |           |      |Project Management|
-| 1   | 1  | Project Management|           |8 days|            |
-| |1.1|Appointing the Project Manager|     |1 day |            |
-| |1.2|Identifying Stake Holders|          |1 day |            |
-| |1.3|Identifying the Resources |         |1 day |            |
-| |1.4|Develop Project Charter|            |1 day |            |
-| |1.5|Approving the Project Charter|      |1 day |            |
-| |1.6|Design and vision|                  |1 day |            |
-| |1.7|Approving the project|              |1 day |            |
-|       |          |Planning   |           |      |            |
-|2 |2 |Project Plan Preparation|           |   43.5 days   |Project Manager|            |
-| |2.1|Resource Availability|           |2 days |            |
-| |2.2|Developing Scope Statement|         |3 days|  Project Manager         |
-|       |2.3       |Hardware   |           |7.125 days|        |
-|       |2.3.1 |Laptops|                   |0.125 days|        |
-|       |2.3.2 |Database Server|           |7 days|            |
-|       |2.4|Software |                    |5.375 days|        |
-|       |2.4.1|Software Licensed Version|  |0.375 days|        |
-|       |2.4.2|Online Server|             |3 days|             |
-|       |2.4.3|Software Application|       |1 day |            |
-|       |2.4.4|JIRA|                       |1 day |            |
-|       |2.5 |Creating Scope Statement|  |1 day |            | 
-| |2.6|Developing Project Plan |       |5 days| Project Manager      |
-|       |2.7|Cost Analysis|                |1 day |            |
-|       |2.8|Risk Assessment|              |2 days|            |
-|       |2.9|Technology |                  |10 days|           |
-|       |2.10|Project Management Plan|      |3 days|            |
-|       |2.11|Cost Management Plan|         |2 days|            |
-| |2.12|Submitting Project Plan to Sponsor| |1 day|Project Manager|
-| |2.13|Approval from Sponsor|            |2 daya|            |
-|       |          |Execution  |           |      |            |
-|3      | 3        |Creating the Application | |34 days|Project Team Members|
-| |3.1|Content Developing and Writing|     |4 days|            |
-| |3.2|Creating dummy data for testing|    |1 days|            |
-| |3.3|Video lectures|                     |2 days|            |
-|  |3.4 |User interface Design|            |2 days|            |
-| |3.5|Creating Quiz Application|          |1 day|             |
-|  |3.6|Creating Login Page  |             |3 days|            |
-| |3.6.1|Existing User         |           |2 days|            |
-| |3.6.2| New User|                        |1 day |            |
-|  |3.7|Generating User Id and Password | |1 day|            |
-| |3.8|Testing and Analysing Login Page | |1 day|            |
-| |3.9|Save Login page Directory|        |1 day |            |
-| |3.10|New user registration Page|       |3 days|            |
-| |3.11.1|Email-id|                        |1 day |            |
-| |3.11.2|User name, Password |            |1 day |            |
-| |3.11.3|Contact Details|                 |1 day |            |
-| |3.12|Selecting the course |             |1 day |            |
-| |3.13|Selecting the Chapter of the course| |1 day|           |
-| |3.14|Selecting mode of the quiz|        |5 days|            |
-| |3.14.1 |Theoretical |                   |1 day |            |
-| |3.14.2|Objective|                       |4 days|            |
-| |3.14.2.1|True/False|                    |1 day |            |
-| |3.14.2.2|Multiple Choice|               |1 day |            |
-| |3.14.2.3|Filling Blanks|                |1 day |            |
-| |3.14.2.4|Matching |                     |1 day |            |
-| |3.15|Show Correct answer|               |1 day |            |
-| |3.16|Show the description |             |1 day |            |
-| |3.17|Show the difficulty level |        |1 day |            |
-| |3.18|Show the Reference |               |1 day |            |
-| |3.19|Showing the key|                   |1 day |            |
-| |3.20|Show the Result and percentage|    |1 day |            |
-| |3.21|Discussion page/forum design|      |1 day |            |
-| |3.22|Getting Back to the Chapter of the course| |1 day|     |
-| |3.23|Log out|                            |1 day|            |
-|       |          |MONITORING AND CONTROL |      |            |
-|4      |4  | Testing|                     |12 days| Web Developer      |
-| |4.1|Tracking the performance of each user |  |7 days|           |
-| |4.2|Detecting the issues|               |1 day |            |
-| |4.3|Resolving the issues|               |2 day |            |
-| |4.4|Tracking the Employee Contribution| |1 day |            |
-| |4.5|Formal Acceptance of Project|       |1 day | Sponsor   |
-|       |          |Close-Out  |           |      |            |
-|5      |5         |Submitting the Project| |4 days| Project Manager   |
-|  |5.1|Finishing the Project ON time|     |1 day |            |
-| |5.2|Submitting Project to the Sponsorer| |1 day|   Project Manager         |
-| |5.3|Getting Project Approval|           |1 day |Project Manager            |
-| |5.4|Taking the Pay- Checks|             |1 day |    Project Manager   |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-6t3r{font-weight:bold;font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-1wig">WBS</th>
+    <th class="tg-1wig">Task Name</th>
+    <th class="tg-1wig">Duration</th>
+    <th class="tg-1wig">Start</th>
+    <th class="tg-1wig">Finish</th>
+    <th class="tg-1wig">WBS Predecessors</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">0</td>
+    <td class="tg-1wig">A Guide to Project Management</td>
+    <td class="tg-0lax">23 days</td>
+    <td class="tg-0lax">Fri 5/24/19</td>
+    <td class="tg-0lax">Tue 6/25/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-6t3r">1</td>
+    <td class="tg-6t3r">INITIATING</td>
+    <td class="tg-6t3r">5 days</td>
+    <td class="tg-6t3r">Fri 5/24/19</td>
+    <td class="tg-6t3r">Thu 5/30/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.1</td>
+    <td class="tg-0lax">Project Manager selection</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 5/24/19</td>
+    <td class="tg-0lax">Fri 5/24/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.2</td>
+    <td class="tg-0lax">Identifying Stakeholders and Resources</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 5/27/19</td>
+    <td class="tg-0lax">Mon 5/27/19</td>
+    <td class="tg-0lax">1.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.3</td>
+    <td class="tg-0lax">Develop Project Charter</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 5/28/19</td>
+    <td class="tg-0lax">Tue 5/28/19</td>
+    <td class="tg-0lax">1.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.4</td>
+    <td class="tg-0lax">Approving the Project Charter</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Wed 5/29/19</td>
+    <td class="tg-0lax">Wed 5/29/19</td>
+    <td class="tg-0lax">1.3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.5</td>
+    <td class="tg-0lax">Approving the project</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 5/30/19</td>
+    <td class="tg-0lax">Thu 5/30/19</td>
+    <td class="tg-0lax">1.4</td>
+  </tr>
+  <tr>
+    <td class="tg-6t3r">2</td>
+    <td class="tg-6t3r">PLANING</td>
+    <td class="tg-6t3r">4 days</td>
+    <td class="tg-6t3r">Fri 5/31/19</td>
+    <td class="tg-6t3r">Thu 6/6/19</td>
+    <td class="tg-6t3r"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1</td>
+    <td class="tg-0lax">Project Integration Management Plan</td>
+    <td class="tg-0lax">4 days</td>
+    <td class="tg-0lax">Fri 5/31/19</td>
+    <td class="tg-0lax">Wed 6/5/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1.1</td>
+    <td class="tg-0lax">Develop Scope Management Plan</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 5/31/19</td>
+    <td class="tg-0lax">Fri 5/31/19</td>
+    <td class="tg-0lax">1.5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1.2</td>
+    <td class="tg-0lax">Develop Time Management Plan</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/3/19</td>
+    <td class="tg-0lax">Mon 6/3/19</td>
+    <td class="tg-0lax">2.1.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1.3</td>
+    <td class="tg-0lax">Develop Cost Management Plan</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 6/4/19</td>
+    <td class="tg-0lax">Tue 6/4/19</td>
+    <td class="tg-0lax">2.1.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1.4</td>
+    <td class="tg-0lax">Develop Quality Management plan</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Wed 6/5/19</td>
+    <td class="tg-0lax">Wed 6/5/19</td>
+    <td class="tg-0lax">2.1.3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1.5</td>
+    <td class="tg-0lax">Develop Recourse Management plan</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/3/19</td>
+    <td class="tg-0lax">Mon 6/3/19</td>
+    <td class="tg-0lax">2.1.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1.6</td>
+    <td class="tg-0lax">Develop Procurement Management Plan</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 6/4/19</td>
+    <td class="tg-0lax">Tue 6/4/19</td>
+    <td class="tg-0lax">2.1.5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1.7</td>
+    <td class="tg-0lax">Develop Communication Management Plan</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/3/19</td>
+    <td class="tg-0lax">Mon 6/3/19</td>
+    <td class="tg-0lax">2.1.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1.8</td>
+    <td class="tg-0lax">Develop Risk Management Plan</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 6/4/19</td>
+    <td class="tg-0lax">Tue 6/4/19</td>
+    <td class="tg-0lax">2.1.5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1.9</td>
+    <td class="tg-0lax">Develop Artifacts in Jira</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Wed 6/5/19</td>
+    <td class="tg-0lax">Wed 6/5/19</td>
+    <td class="tg-0lax">2.1.8</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.2</td>
+    <td class="tg-0lax">Approval for the project plans</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Wed 6/5/19</td>
+    <td class="tg-0lax">Wed 6/5/19</td>
+    <td class="tg-0lax">2.1.8</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.3</td>
+    <td class="tg-0lax">Milestone 1</td>
+    <td class="tg-0lax">0 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">2.2</td>
+  </tr>
+  <tr>
+    <td class="tg-6t3r">3</td>
+    <td class="tg-6t3r">EXECUTING</td>
+    <td class="tg-6t3r">12 days</td>
+    <td class="tg-6t3r">Thu 6/6/19</td>
+    <td class="tg-6t3r">Fri 6/21/19</td>
+    <td class="tg-6t3r"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1</td>
+    <td class="tg-0lax">Procurement</td>
+    <td class="tg-0lax">10 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Wed 6/19/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1.1</td>
+    <td class="tg-0lax">Content Development</td>
+    <td class="tg-0lax">10 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Wed 6/19/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1.1.1</td>
+    <td class="tg-0lax">Request for Quotes</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">2.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1.1.2</td>
+    <td class="tg-0lax">Seller Selection</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">3.1.1.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1.1.3</td>
+    <td class="tg-0lax">Controlling Procurements</td>
+    <td class="tg-0lax">7 days</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">Tue 6/18/19</td>
+    <td class="tg-0lax">3.1.1.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1.1.4</td>
+    <td class="tg-0lax">Closing Procurements</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Wed 6/19/19</td>
+    <td class="tg-0lax">Wed 6/19/19</td>
+    <td class="tg-0lax">3.1.1.3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1.2</td>
+    <td class="tg-0lax">Database Server</td>
+    <td class="tg-0lax">5 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Wed 6/12/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1.2.1</td>
+    <td class="tg-0lax">Database procurement through online</td>
+    <td class="tg-0lax">5 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Wed 6/12/19</td>
+    <td class="tg-0lax">2.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.2</td>
+    <td class="tg-0lax">Creating Dummy data for Testing</td>
+    <td class="tg-0lax">3 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">2.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.3</td>
+    <td class="tg-0lax">Creating Login Page</td>
+    <td class="tg-0lax">2 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.3.1</td>
+    <td class="tg-0lax">Linking with Northwest Missouri Login Credentials</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">2.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.3.2</td>
+    <td class="tg-0lax">Testing login page</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">3.3.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.4</td>
+    <td class="tg-0lax">User interface Design</td>
+    <td class="tg-0lax">3 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.4.1</td>
+    <td class="tg-0lax">Course Videos Page</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">2.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.4.2</td>
+    <td class="tg-0lax">Quiz page</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">2.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.4.3</td>
+    <td class="tg-0lax">Score Board Page</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">2.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.4.4</td>
+    <td class="tg-0lax">Student Performance Analysis page</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">3.4.3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.4.5</td>
+    <td class="tg-0lax">Discussion forum page</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">3.4.3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.4.6</td>
+    <td class="tg-0lax">Home page Layout Design and Integration of pages</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">3.4.5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.5</td>
+    <td class="tg-0lax">Videos page</td>
+    <td class="tg-0lax">3 days</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">Tue 6/11/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.5.1</td>
+    <td class="tg-0lax">View list of Videos page</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">3.4.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.5.2</td>
+    <td class="tg-0lax">Embedding Video links with webpages</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">3.5.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.5.3</td>
+    <td class="tg-0lax">Testing Videos page</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 6/11/19</td>
+    <td class="tg-0lax">Tue 6/11/19</td>
+    <td class="tg-0lax">3.5.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.6</td>
+    <td class="tg-0lax">Quiz application</td>
+    <td class="tg-0lax">4 days</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">Wed 6/12/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.6.1</td>
+    <td class="tg-0lax">Creating Quiz application</td>
+    <td class="tg-0lax">2 days</td>
+    <td class="tg-0lax">Fri 6/7/19</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">3.4.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.6.2</td>
+    <td class="tg-0lax">Testing Quiz application in various Scenarios</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 6/11/19</td>
+    <td class="tg-0lax">Tue 6/11/19</td>
+    <td class="tg-0lax">3.6.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.6.3</td>
+    <td class="tg-0lax">Validating test results</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Wed 6/12/19</td>
+    <td class="tg-0lax">Wed 6/12/19</td>
+    <td class="tg-0lax">3.6.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.7</td>
+    <td class="tg-0lax">Score Board</td>
+    <td class="tg-0lax">4 days</td>
+    <td class="tg-0lax">Thu 6/13/19</td>
+    <td class="tg-0lax">Tue 6/18/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.7.1</td>
+    <td class="tg-0lax">Integrating All the students Quiz scores data</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 6/13/19</td>
+    <td class="tg-0lax">Thu 6/13/19</td>
+    <td class="tg-0lax">3.6.3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.7.2</td>
+    <td class="tg-0lax">Displaying the top ten members list on the webpage</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 6/14/19</td>
+    <td class="tg-0lax">Fri 6/14/19</td>
+    <td class="tg-0lax">3.7.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.7.3</td>
+    <td class="tg-0lax">Testing it in various Scenarios</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/17/19</td>
+    <td class="tg-0lax">Mon 6/17/19</td>
+    <td class="tg-0lax">3.7.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.7.4</td>
+    <td class="tg-0lax">Validating test results</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 6/18/19</td>
+    <td class="tg-0lax">Tue 6/18/19</td>
+    <td class="tg-0lax">3.7.3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.8</td>
+    <td class="tg-0lax">Student Performance Analysis page</td>
+    <td class="tg-0lax">5 days</td>
+    <td class="tg-0lax">Thu 6/13/19</td>
+    <td class="tg-0lax">Wed 6/19/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.8.1</td>
+    <td class="tg-0lax">Integrating Statistical analysis with Quiz scores</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 6/13/19</td>
+    <td class="tg-0lax">Thu 6/13/19</td>
+    <td class="tg-0lax">3.6.3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.8.2</td>
+    <td class="tg-0lax">Integrating Watched videos with Statistical Analysis</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 6/14/19</td>
+    <td class="tg-0lax">Fri 6/14/19</td>
+    <td class="tg-0lax">3.8.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.8.3</td>
+    <td class="tg-0lax">Displaying the Analysis through webpage</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/17/19</td>
+    <td class="tg-0lax">Mon 6/17/19</td>
+    <td class="tg-0lax">3.8.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.8.4</td>
+    <td class="tg-0lax">Testing it in various Scenarios</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 6/18/19</td>
+    <td class="tg-0lax">Tue 6/18/19</td>
+    <td class="tg-0lax">3.8.3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.8.5</td>
+    <td class="tg-0lax">Validating test results</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Wed 6/19/19</td>
+    <td class="tg-0lax">Wed 6/19/19</td>
+    <td class="tg-0lax">3.8.4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.9</td>
+    <td class="tg-0lax">Discussion forum design</td>
+    <td class="tg-0lax">3 days</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">Wed 6/12/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.9.1</td>
+    <td class="tg-0lax">Creating Discussion forum</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">3.4.5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.9.2</td>
+    <td class="tg-0lax">Testing Discussion forum in various Scenarios</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 6/11/19</td>
+    <td class="tg-0lax">Tue 6/11/19</td>
+    <td class="tg-0lax">3.9.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.9.3</td>
+    <td class="tg-0lax">Validating test results</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Wed 6/12/19</td>
+    <td class="tg-0lax">Wed 6/12/19</td>
+    <td class="tg-0lax">3.9.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.10</td>
+    <td class="tg-0lax">Database</td>
+    <td class="tg-0lax">6 days</td>
+    <td class="tg-0lax">Thu 6/13/19</td>
+    <td class="tg-0lax">Thu 6/20/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.10.1</td>
+    <td class="tg-0lax">Setting up the database</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 6/13/19</td>
+    <td class="tg-0lax">Thu 6/13/19</td>
+    <td class="tg-0lax">3.1.2.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.10.2</td>
+    <td class="tg-0lax">Uploading the testing dummy data</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 6/14/19</td>
+    <td class="tg-0lax">Fri 6/14/19</td>
+    <td class="tg-0lax">3.10.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.10.3</td>
+    <td class="tg-0lax">Testing</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/17/19</td>
+    <td class="tg-0lax">Mon 6/17/19</td>
+    <td class="tg-0lax">3.10.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.10.4</td>
+    <td class="tg-0lax">Uploading Course content Data</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Thu 6/20/19</td>
+    <td class="tg-0lax">Thu 6/20/19</td>
+    <td class="tg-0lax">3.1.1.4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.11</td>
+    <td class="tg-0lax">Integration</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Fri 6/21/19</td>
+    <td class="tg-0lax">Fri 6/21/19</td>
+    <td class="tg-0lax">3.10.4,3.9.3,3.8.5</td>
+  </tr>
+  <tr>
+    <td class="tg-6t3r">4</td>
+    <td class="tg-6t3r">MONITORING AND CONTROL</td>
+    <td class="tg-6t3r">11.63 days</td>
+    <td class="tg-6t3r">Thu 6/6/19</td>
+    <td class="tg-6t3r">Fri 6/21/19</td>
+    <td class="tg-6t3r"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.1</td>
+    <td class="tg-0lax">Listing the Defects in JIRA</td>
+    <td class="tg-0lax">11 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Fri 6/21/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.2</td>
+    <td class="tg-0lax">Review meetings to resolve the issues</td>
+    <td class="tg-0lax">11 days</td>
+    <td class="tg-0lax">Thu 6/6/19</td>
+    <td class="tg-0lax">Thu 6/20/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.3</td>
+    <td class="tg-0lax">Controlling Procurements</td>
+    <td class="tg-0lax">6 days</td>
+    <td class="tg-0lax">Mon 6/10/19</td>
+    <td class="tg-0lax">Tue 6/18/19</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">5</td>
+    <td class="tg-1wig">CLOSE-OUT</td>
+    <td class="tg-1wig">2 days</td>
+    <td class="tg-1wig">Mon 6/24/19</td>
+    <td class="tg-1wig">Tue 6/25/19</td>
+    <td class="tg-1wig"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.1</td>
+    <td class="tg-0lax">Deploying the Product</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Mon 6/24/19</td>
+    <td class="tg-0lax">Mon 6/24/19</td>
+    <td class="tg-0lax">3.11</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.2</td>
+    <td class="tg-0lax">Lessons learned report</td>
+    <td class="tg-0lax">1 day</td>
+    <td class="tg-0lax">Tue 6/25/19</td>
+    <td class="tg-0lax">Tue 6/25/19</td>
+    <td class="tg-0lax">5.1</td>
+  </tr>
+</table>
 
 
 ## Work Breakdown Structure Link:
