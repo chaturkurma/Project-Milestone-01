@@ -136,6 +136,15 @@ Project Closure milestone.
      Phone: +1-6605280106 <br>
      E-mail:S534965@nwmissouri.edu  </p>
 
+<<<<<<< HEAD
+=======
+
+
+<h4> Project Success Criteria: </h4>
+The product should be delivered to client within the specified time. It must meet all the functionalities and user-friendly.
+
+
+>>>>>>> 813be9171634aac2188d353cafca29364b130ea8
 <h4> Roles and Responsibilities</h4>
  <table class="table table-dark">
                          
@@ -148,25 +157,25 @@ Project Closure milestone.
 <tr>
 <td>VenkataSandeep Katrevula</td>
 <td>Project Manager/Content Developer</td>
-<td>Project Manager/Content Developer</td>
+<td></td>
 <td>S534965@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Sai Kiran Doddapaneni</td>
 <td>Team Lead/ Web Developer</td>
-<td>Team Lead/ Web Developer</td>
+<td></td>
 <td>S534736@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Chatur Veda Vyas Kurma</td>
 <td>Web Developer/UI</td>
-<td>Web Developer/UI</td>
+<td></td>
 <td>S534687@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Harsha Vardhan Reddy Nallavolu</td>
 <td>UI/Content Developer</td>
-<td>UI/Content Developer</td>
+<td></td>
 <td>S534688@nwmissouri.edu</td>
 </tr>
 </table>
@@ -289,6 +298,7 @@ Students who all are new to the project management can learn and understand by w
   </tr>
 </table>
 
+<<<<<<< HEAD
 
 
 
@@ -323,6 +333,9 @@ The product must be delivered to client without any delay. The Product must meet
 
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Work Breakdown Structure**
+=======
+### 3.5  **Work Breakdown Structure**
+>>>>>>> 813be9171634aac2188d353cafca29364b130ea8
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  Link for Work Breakdown Structure:
 - [&emsp; Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/projectScopeManagement/Work_Breakdown_Structure.md)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  Link for Work Breakdown Structure Dictionary:
