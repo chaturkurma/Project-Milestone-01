@@ -411,6 +411,8 @@ The product must be delivered to client without any delay. The Product must meet
 <h4>Project Cost Estimation Table </h4>
 <h4>Prepared by:  VenkataSandeep Katrevula</h4>   
 
+- [Cost Estimate Table Excel Link](https://docs.google.com/spreadsheets/d/10IKRwYI4ObV8vo8Agq9hJFX4qiXrxfo0Q3gFyoybgQc/edit?usp=sharing)
+
 <table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
 <col style="width: 221px">
