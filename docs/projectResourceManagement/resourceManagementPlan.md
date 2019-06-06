@@ -157,10 +157,10 @@ The human resources management plan includes:
     <td class="tg-vphl">Database servers &amp; Web servers</td>
     <td class="tg-vphl"></td>
     <td class="tg-vphl">To store and retrieve data</td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
-    <td class="tg-vphl"></td>
+    <td class="tg-vphl">1 month</td>
+    <td class="tg-vphl">1 month</td>
+    <td class="tg-vphl">$1000</td>
+    <td class="tg-vphl">per month</td>
     <td class="tg-vphl">High</td>
   </tr>
   <tr>
