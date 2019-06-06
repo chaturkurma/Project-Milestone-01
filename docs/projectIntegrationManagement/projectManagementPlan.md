@@ -139,7 +139,7 @@ Project Closure milestone.
 
 
 <h4> Project Success Criteria: </h4>
-The product must be delivered to client without any delay. The Product must meet all the functionalities and it must be of user-friendly interface.
+The product should be delivered to client within the specified time. It must meet all the functionalities and user-friendly.
 
 
 <h4> Roles and Responsibilities</h4>
@@ -154,25 +154,25 @@ The product must be delivered to client without any delay. The Product must meet
 <tr>
 <td>VenkataSandeep Katrevula</td>
 <td>Project Manager/Content Developer</td>
-<td>Project Manager/Content Developer</td>
+<td></td>
 <td>S534965@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Sai Kiran Doddapaneni</td>
 <td>Team Lead/ Web Developer</td>
-<td>Team Lead/ Web Developer</td>
+<td></td>
 <td>S534736@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Chatur Veda Vyas Kurma</td>
 <td>Web Developer/UI</td>
-<td>Web Developer/UI</td>
+<td></td>
 <td>S534687@nwmissouri.edu</td>
 </tr>
 <tr>
 <td>Harsha Vardhan Reddy Nallavolu</td>
 <td>UI/Content Developer</td>
-<td>UI/Content Developer</td>
+<td></td>
 <td>S534688@nwmissouri.edu</td>
 </tr>
 </table>
