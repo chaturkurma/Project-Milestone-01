@@ -5,7 +5,7 @@
 <table class="tg">
   <tr>
     <th class="tg-7btt">Stakeholder Names and Roles</th>
-    <th class="tg-7btt">How Important? (High, Medium, low)</th>
+    <th class="tg-7btt">How Important? (Impact) (High, Medium, low)</th>
     <th class="tg-7btt">Current Level of Support? </th>
     <th class="tg-aktf">What Do You Want from Stakeholders? </th>
     <th class="tg-akt8">How Could Stakeholders Block Your Effort?</th>
