@@ -69,16 +69,16 @@ The project commences from July 6th, 2019 expected to be finished by August 9th,
   </tr>
 </table>
 
-Hardware and software requirements – 06/06/2019.
-Develop functional requirements – 06/10/2019
-Review the modular specifications – 06/14/2019
-Develop the needed upgrades document-06/16/2019 – 06/18/2019
-Install and integrate new computer platform – 06/19/2019 – 06/25/2019.
-Configure the systems and fix for bugs if any – 07/02/2019 – 07/05/2019.
-Install required software which is needed for development in the systems – 07/06/2019 – 07/09/2019.
-Testing the installed software – 07/10/2019 – 07/15/2019.
-Monitor the systems – 7/16/2019 – 7/19/2019
-Performing demo trials – 7/20/2019 – 7/22/2019
+Hardware and software requirements – 06/06/2019.<br>
+Develop functional requirements – 06/10/2019 <br>
+Review the modular specifications – 06/14/2019 <br>
+Develop the needed upgrades document-06/16/2019 – 06/18/2019 <br>
+Install and integrate new computer platform – 06/19/2019 – 06/25/2019. <br>
+Configure the systems and fix for bugs if any – 07/02/2019 – 07/05/2019. <br>
+Install required software which is needed for development in the systems – 07/06/2019 – 07/09/2019. <br>
+Testing the installed software – 07/10/2019 – 07/15/2019. <br>
+Monitor the systems – 7/16/2019 – 7/19/2019 <br>
+Performing demo trials – 7/20/2019 – 7/22/2019 <br>
 
 ### V.	Applicable Standards:
 The performance must not be affected, and the platform should be of high standard and needs to be tested to be bug free. 
@@ -99,28 +99,30 @@ Every deliverable must pass the quality standards and meet the requirements. The
 ### ii.	Organization’s Background: ABC is software development company whose main business focus is to develop web applications for transportation systems.
 
 ### iii.	Basic Requirements: 
-a.	Convert a web application to mobile application platform.
-b.	Should be compatible with android and iOS.
+a.	Convert a web application to mobile application platform. <br>
+b.	Should be compatible with android and iOS. <br>
 
 ### iv.	Hardware and Software Environment:
-Android and iOS compatible.
-•	Android devices from version 8.1
-•	iOS devices from iOS 7.0 should support.
-•	XCode IDE is to be used.
-•	Android studio 1.5 compatibility.
-•	Swift version 9 compatibility.
-Use of MySQL and Oracle as the main databases.
+Android and iOS compatible.<br>
+•	Android devices from version 8.1 <br>
+•	iOS devices from iOS 7.0 should support. <br>
+•	XCode IDE is to be used. <br>
+•	Android studio 1.5 compatibility. <br>
+•	Swift version 9 compatibility. <br>
+Use of MySQL and Oracle as the main databases. <br>
 
-### v.	RFP Process description: The organization uses sophisticated hardware and software devices. The storage servers are expected to maintain overload so the server capacity should be increased. The platform must be compatible.
+### v.	RFP Process description: 
+The organization uses sophisticated hardware and software devices. The storage servers are expected to maintain overload so the server capacity should be increased. The platform must be compatible.
 
-### vi.	Statement of work and Schedule Information: This whole process would take around 12 days of time to complete the whole process of installing the hardware and extending the storage capacity. Inspecting the area of work for installing – 2 days, planning and moving hardware – 3 days, installing hardware – 5 days. Testing the installed devices – 2 days.
+### vi.	Statement of work and Schedule Information:
+This whole process would take around 12 days of time to complete the whole process of installing the hardware and extending the storage capacity. Inspecting the area of work for installing – 2 days, planning and moving hardware – 3 days, installing hardware – 5 days. Testing the installed devices – 2 days.
 
 ### vii.	Possible Appendices:
 
-a.	Current platform Overview - current platform (Hardware/Software) need to be upgraded for the transportation systems.
-b.	System Requirements contain advanced extendable storage devices and system compatibility.
-c.	Required Contents of Vendor’s Response to RFP.
-d.	Model Contract: The project must be completed and the deliverables to be handed over to ABC organization.
+a.	Current platform Overview - current platform (Hardware/Software) need to be upgraded for the transportation systems. <br>
+b.	System Requirements contain advanced extendable storage devices and system compatibility.<br>
+c.	Required Contents of Vendor’s Response to RFP. <br>
+d.	Model Contract: The project must be completed and the deliverables to be handed over to ABC organization. <br>
 
 
 
