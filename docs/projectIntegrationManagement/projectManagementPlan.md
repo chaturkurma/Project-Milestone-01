@@ -26,6 +26,7 @@ Students who all are new to the project management can learn and understand by w
 ### 1.1.4 **Evaluation of this Document**
 
 <p>This document will be updated as the project progresses. Updates should be expected in the following sections:</p>
+
 1.	References - updated as necessary
 1.	Definitions, acronyms, and abbreviations – Please refer WBS Dictionary
 1.	Organizational Structure – Please refer the Project Charter
