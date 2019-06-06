@@ -2,12 +2,14 @@
 ## 1.1 **Project Overview**
 The aim of the project is to deliver a interactive web application based quiz that covers the PMBOK methodology and the required Project Management course objectives.
 ### 1.1.1 **Purpose,Scope and Objective**
-Developing a supplementary website to the course Project Management in Business and technology. All the students from Northwest Missouri state university can access this supplementary course content. They must be using university canvas login credentials to access the course content.  This supplementary website provides the video lectures, quizzes, discussion forum and score board.  This web application would help the students to learn and understand various concepts of Project Management. Students can access the quizzes with unlimited attempts. While reviewing the quiz answers every question will have detailed explanations to the answers which are self-explanatory. In addition to these students can write the five mock exams. 
+Developing a supplementary website to the course Project Management in Business and technology. All the students from Northwest Missouri state university can access this supplementary course content. They must be using university canvas login credentials to access the course content.  This supplementary website provides video lectures, quizzes, discussion forum, scoreboard, and student performance Criteria. 
+This web application would help the students to learn and understand various concepts of Project Management. Students can access the quizzes with unlimited attempts. While reviewing the quiz answers every question will have detailed explanations to the answers which are self-explanatory. In addition to these students can write the five mock exams. 
 
 
 ### 1.1.2 **Assumptions, Constraints and Risks**
-Students who all are new to the project management can learn and understand by watching video lectures. Prior to use this application, users need not know have a good knowledge about the PMBOK methodology. Questions are designed based on difficulty level. Students can choose there level of expertise from Beginner, Professional and Expert. 
-- Project must be completed by fall 2019
+Students who all are new to the project management can learn and understand by watching video lectures. Prior to use this application, users need not know to have good knowledge about the PMBOK methodology. Questions are designed based on the difficulty level. Students can choose their level of expertise from Beginner, Professional, and Expert. 
+
+- The project must be completed by fall 2019
 - Necessary training should be provided to team members
 
 ### 1.1.3 **Project Deliverables**
