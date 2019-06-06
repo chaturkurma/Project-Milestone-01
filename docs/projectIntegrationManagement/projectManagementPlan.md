@@ -2,15 +2,14 @@
 ## 1.1 **Project Overview**
 The aim of the project is to deliver a interactive web application based quiz that covers the PMBOK methodology and the required Project Management course objectives.
 ### 1.1.1 **Purpose,Scope and Objective**
-The quiz web application would help the students to learn and understand various concepts of Project Management. Users/Students will be given unlimited attempts to the quiz so that users/students can come across all questions from the database which contains questions from each chapter of the book "A Guide to PMBOK" and practice them whenever they want.
-
-- To deliver a web application which interacts with the database to display quiz questions to which users/students answer. The answers submitted by the users/students are then compared with the answers in database and the quiz is graded.
+Developing a supplementary website to the course Project Management in Business and technology. All the students from Northwest Missouri state university can access this supplementary course content. They must be using university canvas login credentials to access the course content.  This supplementary website provides the video lectures, quizzes, discussion forum and score board.  This web application would help the students to learn and understand various concepts of Project Management. Students can access the quizzes with unlimited attempts. While reviewing the quiz answers every question will have detailed explanations to the answers which are self-explanatory. In addition to these students can write the five mock exams. 
 
 
 ### 1.1.2 **Assumptions, Constraints and Risks**
-Prior to usage of the application, users need not know PMBOK methodology in depth.Questions are designed as such would help users to learn topics and understand.
-- Project needs to be completed by fall 2019.
-- Training to be provided to some team members.
+Prior to usage of the application, users need not know PMBOK methodology in depth. Questions are designed as such would help users to learn topics and understand.
+- Project has to be completed by fall 2019
+-  Necessary training shold be provided to team members
+
 ### 1.1.3 **Project Deliverables**
 1.	Preliminary Project Plan	
 1.	Requirements Specification
