@@ -1825,22 +1825,22 @@ The project commences from July 6th, 2019 expected to be finished by August 9th,
   </tr>
   <tr>
     <td class="tg-baqh"><br>&nbsp;&nbsp;Project charter<br>&nbsp;&nbsp;</td>
-    <td class="tg-0lax"><br>  It will be having information about key schedule milestones, budget information,<br>  project manager, project objectives, success criteria, approach, roles and<br>  responsibilities of stakeholders<br>  </td>
+    <td class="tg-0lax"><br>  It will be having information about key schedule milestones, budget information project manager, project objectives, success criteria, approach, roles and responsibilities of stakeholders<br>  </td>
     <td class="tg-baqh"><br>&nbsp;&nbsp;7/9/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;Scope statement<br>&nbsp;&nbsp;</td>
-    <td class="tg-s268"><br>  It has project justification, project characteristics and requirements,<br>  Product-related deliverables, Project management-related deliverables,<br>  </td>
+    <td class="tg-s268"><br>  It has project justification, project characteristics and requirements product-related deliverables, Project management-related deliverables,<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;7/15/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;Time management plan<br>&nbsp;&nbsp;</td>
-    <td class="tg-s268"><br>  It has details how detailed project scope statement is prepared, how to maintain<br>  and approve the WBS, Work Breakdown Structure obtaining procedure, how to<br>  control requests for changes to the project scope, how to get formal<br>  acceptance regarding completed project deliverables<br>  </td>
+    <td class="tg-s268"><br>  It has details how detailed project scope statement is prepared, how to maintain and approve the WBS, Work Breakdown Structure obtaining procedure, how to control requests for changes to the project scope, how to get formal acceptance regarding completed project deliverables<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;7/21/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;Schedule management plan<br>&nbsp;&nbsp;</td>
-    <td class="tg-s6z2"><br>  It has details regarding Project schedule model development, complete scheduling<br>  methodology, Level of accuracy and units of measure, Process descriptions, Control<br>  thresholds, Rules of performance measurement, Reporting formats<br>  </td>
+    <td class="tg-s6z2"><br>  It has details regarding Project schedule model development, complete scheduling methodology, Level of accuracy and units of measure, Process descriptions, Control thresholds, Rules of performance measurement, Reporting formats<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;7/26/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
@@ -1850,7 +1850,7 @@ The project commences from July 6th, 2019 expected to be finished by August 9th,
   </tr>
   <tr>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;Stakeholder register<br>&nbsp;&nbsp;</td>
-    <td class="tg-s6z2"><br>  It contains names, position, project role, and contact information of the<br>  employee<br>  </td>
+    <td class="tg-s6z2"><br>  It contains names, position, project role, and contact information of the employee<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;8/2/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
