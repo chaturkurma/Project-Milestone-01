@@ -410,15 +410,27 @@ The product must be delivered to client without any delay. The Product must meet
  
 <h4>Project Cost Estimation Table </h4>
 <h4>Prepared by:  VenkataSandeep Katrevula</h4>   
-
-<table class="tg" style="undefined;table-layout: fixed; width: 877px">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:1px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:1px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-ihln{font-weight:bold;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-t2cw{font-weight:bold;text-decoration:underline;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-6t3r{font-weight:bold;font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
-<col style="width: 237px">
-<col style="width: 80px">
+<col style="width: 221px">
+<col style="width: 65px">
 <col style="width: 71px">
-<col style="width: 79px">
+<col style="width: 54px">
 <col style="width: 45px">
-<col style="width: 141px">
+<col style="width: 70px">
 <col style="width: 48px">
 <col style="width: 67px">
 <col style="width: 47px">
