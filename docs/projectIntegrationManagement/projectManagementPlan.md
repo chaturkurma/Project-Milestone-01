@@ -297,9 +297,6 @@ Students who all are new to the project management can learn and understand by w
   </tr>
 </table>
 
-<<<<<<< HEAD
-
-
 
 <br>
 
@@ -332,9 +329,7 @@ The product must be delivered to client without any delay. The Product must meet
 
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Work Breakdown Structure**
-=======
 ### 3.5  **Work Breakdown Structure**
->>>>>>> 813be9171634aac2188d353cafca29364b130ea8
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  Link for Work Breakdown Structure:
 - [&emsp; Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/projectScopeManagement/Work_Breakdown_Structure.md)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  Link for Work Breakdown Structure Dictionary:
