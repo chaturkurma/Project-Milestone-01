@@ -295,14 +295,7 @@ Students who all are new to the project management can learn and understand by w
   </tr>
 </table>
 
-
-
-### **Project Success Criteria:** 
-The product must be delivered to client without any delay. The Product must meet all the functionalities and it must be of user-friendly interface.
-
-
-
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) **Work Breakdown Structure**
+### 3.5  **Work Breakdown Structure**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;  Link for Work Breakdown Structure:
 - [&emsp; Work Breakdown Structure](https://github.com/chaturkurma/Project-Milestone-01/blob/master/docs/projectScopeManagement/Work_Breakdown_Structure.md)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  Link for Work Breakdown Structure Dictionary:
