@@ -1,4 +1,4 @@
-## i. Statement of Work 
+##  Statement of Work 
 ### I.	Scope of Work:
 To upgrade the platform for transportation systems, with the increase in demand for mobile applications the organization has decided to start applications on both Android and iOS for their systems. We need to upgrade their equipment (software/hardware) to start mobile development. 
 
