@@ -24,7 +24,7 @@
     <td class="tg-c3ow">High</td>
     <td class="tg-c3ow">High</td>
     <td class="tg-c3ow">Manage the project</td>
-    <td class="tg-ml2k"></td>
+    <td class="tg-ml2k">By not managing project properly</td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
     <td class="tg-c3ow">Medium</td>
     <td class="tg-c3ow">High</td>
     <td class="tg-c3ow">Actively work in the project</td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">By not working efficiently</td>
     <td class="tg-c3ow">Try to motivate</td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@
     <td class="tg-c3ow">Low</td>
     <td class="tg-c3ow">High</td>
     <td class="tg-c3ow">Actively work in the project</td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">By not working efficiently</td>
     <td class="tg-c3ow">Try to motivate</td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@
     <td class="tg-c3ow">Low</td>
     <td class="tg-c3ow">High</td>
     <td class="tg-c3ow">Actively work in the project</td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">By not working efficiently</td>
     <td class="tg-c3ow">Try to motivate</td>
   </tr>
   <tr>
