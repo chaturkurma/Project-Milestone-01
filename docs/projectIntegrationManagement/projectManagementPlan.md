@@ -336,7 +336,7 @@ The product must be delivered to client without any delay. The Product must meet
 
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) **Gantt Chart**
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Gantt Chart**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link for Gantt Chart:
 
 #### Project libre file
@@ -345,7 +345,7 @@ The product must be delivered to client without any delay. The Product must meet
 #### Please Click on the Image or view it in a seperate tab. 
 -  ![Logo](https://raw.githubusercontent.com/chaturkurma/Project-Milestone-01/master/gant_chart_image.jpg)
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) **Scheduling Sprints**
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # 5. **Project Cost Management**
 
 -  To create the Plan Cost Management, necessary inputs are required such as Project Management Plan, Project Charter, Enterprise Environmental factors and Organizational Process.  
