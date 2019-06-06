@@ -136,11 +136,6 @@ Project Closure milestone.
      Phone: +1-6605280106 <br>
      E-mail:S534965@nwmissouri.edu  </p>
 
-<h4> Main Project Success Criteria:</h4>
-<p> Creating an interactive website to assist Northwest Missouri State University students, whom all are enrolled to course 44-618 Project Management in Business and Technology. This interactive website advocate students to learn all the 5 process groups (initiating, planning, executing, monitoring & controlling, and control) and all 10 Knowledge areas. The performances of the students get recorded, and students are able to access their history and check their performances.There may be few changeds in the above creteria. Based on the clients future updates and inputs, Project adopts required chanegs by considering the time lines and Cost.</p>
-
-
-
 <h4> Roles and Responsibilities</h4>
  <table class="table table-dark">
                          
@@ -293,8 +288,6 @@ Students who all are new to the project management can learn and understand by w
     <td class="tg-0lax">Functional</td>
   </tr>
 </table>
-
-
 
 
 
